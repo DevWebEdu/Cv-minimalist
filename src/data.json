@@ -1,0 +1,185 @@
+{
+    "me": {
+        "name": "Eduardo Jaell",
+        "lastname": "Luna Meza",
+        "age": 26,
+        "telf": "+51 962 408 388",
+        "degree": "Profesional Titulado en Ingeniería de Computación y Sistemas",
+        "email": "elunameza@gmail.com"
+    },
+    "professional_summary": "Soy Ingeniero en Computación y Sistemas y Desarrollador Web Full Stack. Actualmente, diseño y desarrollo nuevas funcionalidades para una aplicación web de administración y control construida con Laravel y Vue. Además de, manejo y resolución de incidencias. Apasionado por la programación, siempre busco nuevos desafíos y oportunidades para expandir mis conocimientos, especialmente en IA, arquitecturas de software y mejores prácticas.",
+    "work_history": {
+        "work_1": {
+            "company": "Universidad Privada San Juan Bautista",
+            "ubication": "Tomas Valle, Chorrillos - Lima, Perú",
+            "phases": [
+                {
+                    "period": "ago. 2021  - may. 2022",
+                    "description": [
+                        "Se realizó el maquetado UX/UI de la web de admision en Figma, se llevo a la realidad en HTML5 , CSS3 y JavaScript.",
+                        "Se atendieron incidencias a nivel de data con SQL.",
+                        "Se realizó un API que consumia y registraba data en Firebase, esto fue para la campaña de alumnos que se beneficiaban al referenciar a algun amigo para que se matricule."
+                    ],
+                    "position": "Practicante Pre-Profesional de Sistemas",
+                    "technologies": [
+                        "HTML5",
+                        "CSS3",
+                        "JavaScript",
+                        "SQL",
+                        "Figma",
+                        "Firebase"
+                    ]
+                }
+            ]
+        },
+        "work_2": {
+            "company": "Autónomo",
+            "ubication": "Jr. Vulcano Santiago de Surco - Lima, Perú ",
+            "phases": [
+                {
+                    "period": "mar. 2022 - oct. 2022",
+                    "description": [
+                        "Se desarrolló una aplicacion web para la gestion de productos y generacion de facturacion electronica a partir de ReactJ y NodeJs."
+                    ],
+                    "position": "Freelance FullStack Web Developer",
+                    "technologies": [
+                        "ReactJs",
+                        "NodeJs",
+                        "GoogleCloud",
+                        "Axios",
+                        "Prisma",
+                        "ExpressJs",
+                        "PostMan",
+                        "MySQL Workbench"
+                    ]
+                }
+            ]
+        },
+        "work_3": {
+            "company": "Indra",
+            "ubication": "Jr. Vulcano Santiago de Surco - Lima, Perú ",
+            "phases": [
+                {
+                    "period": "oct. 2022 - oct. 2023",
+                    "description": [
+                        "Se realizó el soporte a nivel de N2 y N3 a aplicaciones web de Telefónica encargadas de Facturación, Gestion de trabajadores, Gestion de tiendas, Accesos a Usuarios a nivel de base de datos en Oracle (PLSQL) y tambien a nivel de codigo .NET y Angular.",
+                        "Se realizó mantenimiento a procesos en Linux ( Red Hat ) desarrollados en shell y PHP para optimizar el rendimiento."
+                    ],
+                    "position": "Analista Programador Trainee",
+                    "technologies": [
+                        "PLSQL",
+                        "Oracle",
+                        "Angular",
+                        "C++",
+                        "PostMan",
+                        "SFTP",
+                        "Linux"
+                    ]
+                },
+                {
+                    "period": "oct. 2023 - actualidad",
+                    "description": [
+                        "Conexiones a API's como a la API de Jira para mostrar trabajos programados y a Remedy para la gestion de incidencias",
+                        "Se da soporte a incidencias sobre una aplicacion web de Telefonica desarrollada en Vue 3 y Laravel 10. Asi mismo, a procesos batcheros en servidores Linux ( Red Hat)",
+                        "Se implementa a la aplicacion web ( MULTICONSULTA ) de Telefonica una conexion a JIRA y Remedy, a travez de su servicio web con Laravel 10 y en ciertos casos en Linux para la mejora del performance"
+                    ],
+                    "position": "Freelance FullStack Web Developer",
+                    "technologies": [
+                        "Laravel",
+                        "PHP",
+                        "RedHat",
+                        "Linux",
+                        "Web Services",
+                        "Vue 3",
+                        "Ajax",
+                        "Shell",
+                        "Jira",
+                        "Remedy"
+                    ]
+                }
+            ]
+        }
+    },
+    "skills": [
+        "Buenas practicas",
+        "Documentacion",
+        "Comunicacion Acertiva",
+        "Facilidad para trabajar en equipo",
+        "Gestion de personas",
+        "PHP",
+        "JavaScript",
+        "SQL","PLSQL",
+        "Liderazgo",
+        "Resolución de problemas",
+        "TypeScript",
+        "NestJs",
+        "NextJs",
+        "Docker"
+    ],
+    "education": {
+        "study_1": {
+            "institution": "Universidad Privada San Juan Bautista",
+            "phases": [
+                {
+                    "degree": "Ingeniero de Computacion y Sistemas",
+                    "period": "ago. 2017  - mar. 2025"
+                }
+            ]
+        },
+        "study_2": {
+            "institution": "TECSUP",
+            "phases": [
+                {
+                    "degree": "Desarrollador Web FullStack - ReactJs | NodeJs",
+                    "period": "feb. 2022 - ago. 2022"
+                }
+            ]
+        },
+        "study_3": {
+            "institution": "Blumbit",
+            "phases": [
+                {
+                    "degree": "Desarrollador Web Laravel | VueJs",
+                    "period": "mar. 2023 - jun. 2023"
+                }
+            ]
+        }
+    },
+    "certifications": {
+        "certified_1": {
+            "name_curse": "Desarrollador Web FullStack - ReactJs | NodeJs",
+            "time": "2022",
+            "from": "TECSUP"
+        },
+        "certified_2": {
+            "name_curse": "PL/SQL Basico , Avanzado",
+            "time": "2022",
+            "from": "Udemy"
+        },
+        "certified_3": {
+            "name_curse": "Desarrollador Web Laravel | VueJs",
+            "time": "2023",
+            "from": "Blumbit"
+        },
+        "certified_4": {
+            "name_curse": "Linux: Manejo de comandos  y Shell Script ",
+            "time": "2023",
+            "from": "Udemy"
+        },
+        "certified_5": {
+            "name_curse": "React (MERN)",
+            "time": "2024",
+            "from": "Udemy"
+        },
+        "certified_6": {
+            "name_curse": "Docker",
+            "time": "2023",
+            "from": "Udemy"
+        },
+        "certified_7": {
+            "name_curse": "Full Stack Node.js React TS NestJS Next.js",
+            "time": "2024",
+            "from": "Udemy"
+        }
+    }
+}
